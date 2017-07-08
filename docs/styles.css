@@ -37,6 +37,10 @@ a:hover, a:active, a:visited {
   flex-direction: column;
 }
 
+.col-md-4 {
+	width: 33%;
+}
+
 #wrapper {
 	width: 100vw;
 	height: 100%;
