@@ -1,7 +1,7 @@
 # FlatWiki
 Simple wikipedia theme for stylish.
 
-##Install
+## Install
 
 * Download Stylish.
 * Download FlatWiki.
